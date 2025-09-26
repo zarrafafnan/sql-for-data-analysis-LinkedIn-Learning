@@ -8,4 +8,4 @@ GROUP BY Customer.CustomerID,
   FirstName,
   LastName
 ORDER BY Sum(TotalDue) DESC
-LIMIT 10 -- Click on Run on active connection to run
+-- Click on Run on active connection to run
